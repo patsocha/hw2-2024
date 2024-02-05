@@ -80,7 +80,11 @@ div {
     border-bottom: 0px solid #FFFFFF;
 }
 .blue h2 {
-    color:#FFFFFF;
+    color:#C4C4C4;
+}
+
+.blue p {
+    color: #C4C4C4;
 }
 
 /* Yellow class styles */
