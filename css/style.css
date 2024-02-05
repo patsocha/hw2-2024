@@ -11,10 +11,10 @@ footer {
 
 /* Body styles */
 body {
-    font-family: Arial, Verdana, sans-serif;
+    font-family: Arial, Verdana ;
     background-color: #000000;
     color: #FFFFFF;
-    margin: 20px;
+    margin: 20px 20px 0;
 }
 
 /* Header styles */
@@ -33,7 +33,7 @@ h2 {
 /* Default paragraph styles */
 p {
     font-size: 24px;
-    padding: 10px 10px 10px 0;
+    padding: 10px 0 0 10px;
 }
 
 /* Default image styles */
@@ -65,6 +65,8 @@ div {
     margin-left: 50px;
     border-bottom: 2px solid #FFFFFF;
     border-left: 5px solid #FFFFFF;
+    border-right: 0px solid #FFFFFF;
+    border-top: 0px solid #FFFFFF;
 }
 
 /* Blue class styles */
@@ -74,6 +76,8 @@ div {
     margin-right: 50px;
     border-right: 5px solid #FFFFFF;
     border-top: 2px solid #FFFFFF;
+    border-left: 0px solid #FFFFFF;
+    border-bottom: 0px solid #FFFFFF;
 }
 .blue h2 {
     color:#FFFFFF;
@@ -86,6 +90,8 @@ div {
     margin-left: 50px;
     border-bottom: 2px solid #FFFFFF;
     border-left: 5px solid #FFFFFF;
+    border-right: 0px solid #FFFFFF;
+    border-top: 0px solid #FFFFFF;
 }
 .yellow p {
     color: #707070;
@@ -98,6 +104,10 @@ div {
     margin-right: 50px;
     border-right: 5px solid #FFFFFF;
     border-top: 2px solid #FFFFFF;
+    border-left: 0px solid #FFFFFF;
+    border-bottom: 0px solid #FFFFFF;;
+
+
 }
 
 /* Footer styles */
@@ -112,3 +122,9 @@ footer p {
     text-align: right;
     padding: 15px 15px 15px 0;
 }
+
+
+
+
+
+
